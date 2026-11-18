@@ -6,7 +6,7 @@ The system is designed to help researchers review public registry information, s
 
 T2D Compass is a find-and-retrieve research agent. It does not diagnose patients, recommend treatments, rank interventions, or establish comparative clinical effectiveness.
 
-#Purpose
+#Purpose 
 T2D Compass supports a source-first research workflow:
 
 Find candidate completed Type 2 diabetes interventional studies.
@@ -19,7 +19,7 @@ Review the original ClinicalTrials.gov record.
 
 Export search results, evidence cards, and assistant traces.
 
-#Scope
+#Scope 
 The final application uses two research tools:
 
 find_completed_trials
